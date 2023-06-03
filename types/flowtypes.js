@@ -31,7 +31,7 @@ export type SwipeRowPropsType = {
     onRightAction?: Function,
     onLeftActionStatusChange?: Function,
     onRightActionStatusChange?: Function,
-    style?: ViewPropTypes.style,
+    style?: any,
     preview?: boolean,
     previewDuration?: number,
     previewRepeat?: boolean,
